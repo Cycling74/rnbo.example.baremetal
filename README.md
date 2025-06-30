@@ -12,7 +12,7 @@ This should hopefully get you started with integrating the Minimal Export of you
 
 As so often: this is under heavy development, so use this at your own risk, it might suddenly crash, burn, glitch, annoy your cat - anything can happen
 
-Make sure you have the latest RNBO beta installed. Otherwise this might not be working.
+Make sure you have RNBO 1.4.0 or greater installed.
 
 More information can be found here: https://rnbo.cycling74.com/learn/minimal-export
 
